@@ -1,0 +1,17 @@
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+    font-size: 2rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+    font-size: 1rem;
+    padding-left: 1rem;
+
+}
+.carousel{
+    height: 90vh ;
+    overflow: hidden;
+}
